@@ -27,7 +27,7 @@
 
 				<div class="site_navigation">
 					<nav>
-						<a href="/tvapp/dashboard.php">Home</a>
+						<a href="./dashboard.php">Home</a>
 						<a href="./categories.php">Categories</a>
 						<a href="./channels.php">Channels</a>
 						<a href="./settings.php">Settings</a>
@@ -40,7 +40,7 @@
 		<div class="site_content">
 			<div class="side_menu_bar">
 				<nav class="side_menu_nav">
-					<a href="/tvapp/dashboard.php">Home</a>
+					<a href="./dashboard.php">Home</a>
 					<a href="./channels.php">Channels</a>
 					<a href="./categories.php">Categories</a>
 					<a href="./user.php">Users</a>
