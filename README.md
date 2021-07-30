@@ -34,4 +34,4 @@ Watch How to connect this php scripts with Android app in our Channel [SmallAcad
 [![Watch the video](https://i.ytimg.com/vi/yVkRUANsA7k/maxresdefault.jpg)](https://youtu.be/yVkRUANsA7k)
 
 ### Donate to Improve this Project 
-* [Donte](https://smallacademy.co/donate)
+* [Donate](https://smallacademy.co/donate)
